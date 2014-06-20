@@ -1,0 +1,1 @@
+web: bundle exec ruby /app/controllers/index.rb -p $PORT	
